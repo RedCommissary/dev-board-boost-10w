@@ -1,0 +1,5 @@
+# Игнорирование папки с временными копиями
+hardware/project/History/
+
+# Игнорирование папки предпросмотра AD
+hardware/project/__Previews/
